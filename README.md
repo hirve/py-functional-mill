@@ -2,7 +2,7 @@
 The tool to create CNC G-code from a math function.
 
 ### Video how it works
-https://youtu.be/AMobOS7VtgU
+https://youtu.be/pdj-CKyriDQ
 
 ### Add a function
 * Add a new function or modificate one of existing in the **functions.py** file.
